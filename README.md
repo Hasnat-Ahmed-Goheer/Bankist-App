@@ -23,5 +23,6 @@ Welcome to the Bankist Website Project repository. This project, a showcase of a
 
 To view the Bankist website:
 1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Hasnat-Ahmed-Goheer/Bankist-app.git
+```
+git clone https://github.com/Hasnat-Ahmed-Goheer/Bankist-app.git
+```
