@@ -1,5 +1,16 @@
 # Bankist Website Project
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Bankist-App)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Bankist-App?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Bankist-App)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Bankist-App)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Bankist-App)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Bankist-App)
+
+
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Bankist-App?label=Last%20Updated&color=yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Introduction
 
 Welcome to the Bankist Website Project repository. This project, a showcase of advanced DOM manipulation in JavaScript, features a sleek design compatible across browsers, complete with engaging animations. The Bankist website is an exemplar of modern web development techniques and interactive user interface design.
